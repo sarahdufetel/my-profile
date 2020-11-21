@@ -83,6 +83,10 @@ a:hover{
 	 font-size: 65px;
 	color: grey;
 }
+
+.list-qualities {
+	list-style: none;
+}
 /*Design adjustements using id (1% design remaining)*/
 
 #introduction p {
